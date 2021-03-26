@@ -1,0 +1,23 @@
+log_start
+191
+8
+11.02.2021 / 14:31:57
+ind
+from_msk
+4
+0
+0
+
+standard
+len
+noair
+noobl
+Дуки, 60
+16.02.2021 / 18:20:00
+2021-02-16 18:20:00
+79
+84
+0
+noadress
+
+log_end

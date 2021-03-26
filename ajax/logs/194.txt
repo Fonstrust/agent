@@ -1,0 +1,23 @@
+log_start
+194
+7
+11.02.2021 / 21:26:54
+group
+to_msk
+1
+0
+0
+
+group
+dme
+w123
+noobl
+dfsfdsf;;;sdfsdfsdf;;;ertertert;;;ertertret
+27.02.2021 / 21:28:00
+2021-02-27 08:40:00
+66
+84
+0
+noadr
+0
+log_end
